@@ -1,2 +1,2 @@
-for i in range(0,101,+1) : print i, 
+for i in xrange(1,101) : print i, 
 
